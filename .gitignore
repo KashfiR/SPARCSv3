@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+venv/
+.env
+results/
+*.csv
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
